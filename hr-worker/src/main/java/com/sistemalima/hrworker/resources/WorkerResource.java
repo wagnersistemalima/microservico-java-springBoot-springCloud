@@ -15,7 +15,7 @@ import com.sistemalima.hrworker.repositories.WorkerRepository;
 // controlador Rest
 
 @RestController
-@RequestMapping(value = "/workes")
+@RequestMapping(value = "/workers")
 public class WorkerResource {
 	
 	@Autowired

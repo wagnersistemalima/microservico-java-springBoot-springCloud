@@ -23,3 +23,17 @@
 
 ## Implementação utilizando as ferramentas do ecossistema Spring com Java
 
+* Banco de dados H2: banco de dados em memoria, para testes
+
+* Ferramenta Postman: Para testar as requisições e criar um ambiente de produção
+
+* JPA : biblioteca padrão de persistência de dados no java, baseado no mapeamento objeto relacional
+
+* API Gateway Zuul :  lida com todas as solicitações e executa o roteamento dinâmico de aplicativos de microsserviço. Funciona como porta de entrada para todos os pedidos. Também é conhecido como Edge Server. Zuul é construído para permitir roteamento dinâmico, monitoramento, resiliência e segurança.
+
+* Oauth : é um padrão aberto para autorização, comumente utilizado para permitir que os usuários da Internet possam fazer logon em sites de terceiros usando suas contas do Google, Facebook, Microsoft, Twitter, etc.—mas, sem expor suas senhas.
+
+* Feign: Uma maneira elegante de criar clientes HTTP em Java
+
+* Discovery Server Eureka: Em uma arquitetura típica de microsserviço, temos muitos pequenos aplicativos implantados separadamente e eles geralmente precisam se comunicar uns com os outros. Especificamente, quando dizemos serviço ao cliente , queremos dizer um serviço que precisa fazer chamadas REST para algum outro serviço final.
+

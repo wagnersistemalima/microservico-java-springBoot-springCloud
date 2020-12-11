@@ -3,9 +3,9 @@
 
 ## Visão do projeto:
 
-* Montar a estrutura do projeto, a comunicação entre os microsserviços, a configuração automatica, escala automatica, balanceamento de carga. 
+* Montar a estrutura do projeto, a comunicação entre os microsserviços, a configuração automatica, escala automatica e balanceamento de carga. 
 
-* desenvolver um sistema com alguns microserviços
+* desenvolver um sistema com alguns microserviços.
 
 * Serviço de trabalhadores, que estará conectado com um banco de dados, onde iremos manter um cadastro de cada trabalhador.
 

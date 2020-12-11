@@ -1,5 +1,5 @@
 # microsserviço-java-springBoot-springCloud
-🔨 🔧... sistema composto por vários microsserviços que comunicam entre si de forma transparente, escalável e com balanceamento de carga, com autenticação e autorização, usando OAuth e tokens JWT. Está em construção 🔧
+🔨 🔧... sistema composto por vários microsserviços que comunicam entre si de forma transparente, escalável e com balanceamento de carga, com autenticação e autorização, usando OAuth e tokens JWT. 
 
 ## Visão do projeto:
 
@@ -36,4 +36,6 @@
 * Feign: Uma maneira elegante de criar clientes HTTP em Java
 
 * Discovery Server Eureka: Em uma arquitetura típica de microsserviço, temos muitos pequenos aplicativos implantados separadamente e eles geralmente precisam se comunicar uns com os outros. Especificamente, quando dizemos serviço ao cliente , queremos dizer um serviço que precisa fazer chamadas REST para algum outro serviço final.
+
+# Status do Projeto = Está em construção 🔧
 

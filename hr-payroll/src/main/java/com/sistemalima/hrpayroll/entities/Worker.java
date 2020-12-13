@@ -2,6 +2,12 @@ package com.sistemalima.hrpayroll.entities;
 
 import java.io.Serializable;
 
+//não é uma entidade persistente do banco de dados
+
+//projeto Payroll não tem JPA
+
+// Precisaremos só da estrutura
+
 
 public class Worker implements Serializable{
 

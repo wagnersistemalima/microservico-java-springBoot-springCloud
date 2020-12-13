@@ -13,7 +13,7 @@ import com.sistemalima.hrpayroll.entities.Worker;
 // componente gerenciado pelo Spring
 
 @Component
-@FeignClient(name = "hr-worker", url = "localhost:8001", path = "/workers")
+@FeignClient(name = "hr-worker", path = "/workers")
 public interface WorkerFeignClient {
 	
 	// assinatura do metodo findById do projeto WorkerResource

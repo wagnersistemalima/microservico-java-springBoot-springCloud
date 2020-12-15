@@ -53,3 +53,9 @@
 
 # Fase 2: Eureka, Hystrix, Zuul
 
+### Criar projeto hr-eureka-server
+
+### Configurar hr-eureka-server
+
+### Configurar clientes Eureka
+

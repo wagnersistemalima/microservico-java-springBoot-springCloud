@@ -61,3 +61,13 @@
 
 ### Random port para hr-worker
 
+### Tolerância a falhas com Hystrix
+
+### Timeout de Hystrix e Ribbon
+
+### Criar projeto hr-zuul-server
+
+### Configurar hr-zuul-server
+
+### Random port para hr-payroll
+

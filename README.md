@@ -41,7 +41,7 @@
 
 # Status do Projeto = Está em construção 🔧
 
-# Fase 1: Comunicação simples, Feign, Ribbon. Concluida!
+# Fase 1: Comunicação simples, Feign, Ribbon. Concluida!👋
 
 * 1.1 Criar projeto hr-worker
 * 1.2 Implementar projeto hr-worker
@@ -51,7 +51,7 @@
 * 1.6 Feign
 * 1.7 Ribbon load balancing
 
-# Fase 2: Eureka, Hystrix, Zuul
+# Fase 2: Eureka, Hystrix, Zuul. Concluida!👋
 
 ### Criar projeto hr-eureka-server
 
@@ -70,4 +70,8 @@
 ### Configurar hr-zuul-server
 
 ### Random port para hr-payroll
+
+### Zuul timeout
+
+# Fase 3: Configuração centralizada
 

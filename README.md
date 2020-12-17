@@ -75,3 +75,9 @@
 
 # Fase 3: Configuração centralizada. Construindo 👷 🛠️
 
+### Criar projeto hr-config-server
+
+### Configurar projeto hr-config-server
+
+
+

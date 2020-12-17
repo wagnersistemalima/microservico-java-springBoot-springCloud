@@ -79,5 +79,7 @@
 
 ### Configurar projeto hr-config-server
 
+###  hr-worker como cliente do servidor de configuração, profiles ativos
+
 
 

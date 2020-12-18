@@ -73,13 +73,19 @@
 
 ### Zuul timeout
 
-# Fase 3: Configuração centralizada. Construindo 👷 🛠️
+# Fase 3: Configuração centralizada. Concluido! 👋
 
 ### Criar projeto hr-config-server
 
 ### Configurar projeto hr-config-server
 
 ###  hr-worker como cliente do servidor de configuração, profiles ativos
+
+### Actuator para atualizar configurações em runtime
+
+### Repositório Git privativo
+
+# Fase 4: autenticação e autorização. Construindo 👷 🛠️
 
 
 
